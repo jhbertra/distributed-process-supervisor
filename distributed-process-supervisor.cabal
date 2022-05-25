@@ -45,7 +45,7 @@ library
                    unordered-containers >= 0.2.3.0 && < 0.3,
                    fingertree < 0.2,
                    stm >= 2.4 && < 2.6,
-                   time > 1.4 && < 1.9.3,
+                   time > 1.4 && <= 1.9.3,
                    transformers,
                    exceptions >= 0.8.3 && < 0.11
   extensions:      CPP

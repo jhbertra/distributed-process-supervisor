@@ -13,7 +13,7 @@ source-repository-package
 source-repository-package
   type: git
   location: https://github.com/jhbertra/distributed-process-client-server.git
-  tag: 1eb053bbc7ed075fb33d9b7ac18778dcfb4a7522
+  tag: 5ff63adb7175b6f2ceb946b127f21c16400bda72
 
 source-repository-package
   type: git
